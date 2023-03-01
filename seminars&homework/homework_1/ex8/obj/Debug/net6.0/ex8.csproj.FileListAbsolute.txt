@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/bin/Debug/net6.0/ex8
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/bin/Debug/net6.0/ex8.deps.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/bin/Debug/net6.0/ex8.runtimeconfig.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/bin/Debug/net6.0/ex8.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/bin/Debug/net6.0/ex8.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/refint/ex8.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ex8.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_1/ex8/obj/Debug/net6.0/ref/ex8.dll
