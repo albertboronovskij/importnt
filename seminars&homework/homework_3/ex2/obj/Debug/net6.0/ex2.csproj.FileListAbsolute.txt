@@ -1,0 +1,5 @@
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_3/ex2/obj/Debug/net6.0/ex2.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_3/ex2/obj/Debug/net6.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_3/ex2/obj/Debug/net6.0/ex2.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_3/ex2/obj/Debug/net6.0/ex2.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_3/ex2/obj/Debug/net6.0/ex2.csproj.CoreCompileInputs.cache
