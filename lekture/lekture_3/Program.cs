@@ -28,4 +28,3 @@ for (int j = i  ; j< array[minpos]; j++)
 }
 }
 PrintArray(arr);
-SelectionSort();
