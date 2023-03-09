@@ -1,4 +1,4 @@
-﻿int [] mass ={294,863,401,758,283,550};
+﻿int [] mass ={294,862,401,758,283,550};
 int Length=6;
 int count=0;
 for (int i = 0; i < mass.Length; i++)
