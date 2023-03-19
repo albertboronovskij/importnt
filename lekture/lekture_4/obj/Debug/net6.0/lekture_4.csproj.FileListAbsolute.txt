@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/bin/Debug/net6.0/lekture_4
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/bin/Debug/net6.0/lekture_4.deps.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/bin/Debug/net6.0/lekture_4.runtimeconfig.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/bin/Debug/net6.0/lekture_4.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/bin/Debug/net6.0/lekture_4.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/refint/lekture_4.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/lekture_4.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/lekture_4/obj/Debug/net6.0/ref/lekture_4.dll

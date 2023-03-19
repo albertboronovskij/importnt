@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/bin/Debug/net6.0/fobonacce
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/bin/Debug/net6.0/fobonacce.deps.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/bin/Debug/net6.0/fobonacce.runtimeconfig.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/bin/Debug/net6.0/fobonacce.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/bin/Debug/net6.0/fobonacce.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/refint/fobonacce.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/fobonacce.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/lekture/fobonacce/obj/Debug/net6.0/ref/fobonacce.dll
