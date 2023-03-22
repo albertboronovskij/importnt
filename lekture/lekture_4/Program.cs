@@ -35,7 +35,7 @@ for (int i = 0; i < matr.GetLength(0); i++)
 }
 
 //PrintArray(matr);
-//FillArray(matr);
+FillArray(matr);
 //Console.WriteLine();
-//PrintArray(matr);
+PrintArray(matr);
 
