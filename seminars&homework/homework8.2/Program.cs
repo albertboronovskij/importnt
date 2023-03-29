@@ -1,4 +1,4 @@
-﻿int[,] matr = new int[4, 4];
+﻿int[,] matr = new int[4, 4]; //62 задание
 void PrintArray(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)

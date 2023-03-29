@@ -1,0 +1,15 @@
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.csproj.AssemblyReference.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.AssemblyInfoInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.AssemblyInfo.cs
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.csproj.CoreCompileInputs.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/bin/Debug/net6.0/9.1
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/bin/Debug/net6.0/9.1.deps.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/bin/Debug/net6.0/9.1.runtimeconfig.json
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/bin/Debug/net6.0/9.1.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/bin/Debug/net6.0/9.1.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/refint/9.1.dll
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.pdb
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/9.1.genruntimeconfig.cache
+/Users/albertboronovskij/Desktop/IMPORTNT/c#lessens/seminars&homework/homework_9/9.1/obj/Debug/net6.0/ref/9.1.dll

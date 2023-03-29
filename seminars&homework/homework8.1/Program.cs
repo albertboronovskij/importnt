@@ -1,4 +1,4 @@
-﻿int[,] matr = new int[4, 6];
+﻿int[,] matr = new int[4, 6];//56 задание
 void PrintArray(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
@@ -69,7 +69,7 @@ void srawnenie1(int[,] matr)
         return result;
     }
     int min = Min(count1, count2, count3, count4);
-
+    ;
     if (min == count1)
     {
         Console.Write(" первая строка наименьшая ");
@@ -86,10 +86,10 @@ void srawnenie1(int[,] matr)
     {
         Console.Write(" четвёртая строка наименьшая ");
 
-    }
+    }Console.Write(min);
 }
 
-Console.Write(min);
+
 
 FillArray(matr);
 //Console.WriteLine();
