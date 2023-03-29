@@ -1,13 +1,13 @@
 ﻿Console.WriteLine("введите n");
 string data = Console.ReadLine();
+int a = Convert.ToInt32(data);
+int b=a;
 void counter(string data)
+
 {
-    int n = Convert.ToInt32(data);
-    int one = 1;
-    while (one < n + 1)
-    {
-        Console.Write($"{one} ");
-        one++;
-    }
+    if (b!=0){
+   Console.WriteLine(b);
+   b--;
+   counter(data);}
 }
 counter(data);
